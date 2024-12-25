@@ -1,0 +1,40 @@
+body{
+    padding: 50px;
+    position: center;
+    display: inline-flex;
+    color: black;
+}
+
+input[type="text"]{
+    padding: 10px;
+    border-radius: 20px;
+    font-size: large;
+    margin: 50px;
+}
+
+.search-container{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 70vh;
+}
+#search-button{
+   background-color: white;
+    
+   
+
+}
+input[type=submit]{
+    margin-top: 10px;
+    font-size: medium;
+    padding: 5px 20px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+#search-button:hover{
+    cursor: pointer;
+    color: red;
+    
+}

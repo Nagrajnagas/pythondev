@@ -1,0 +1,10 @@
+input[type="submit"]{
+    padding: 10px;
+    border-radius: 20px;margin-left: 30%;
+    font-size: large;
+}
+#Search:hover{
+    color:red;
+    background-position: 20px;
+    cursor: pointer;
+}
